@@ -1,13 +1,14 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Official webpage of Harmony Heights, featuring our latest music, tour dates, and exclusive content for our fans.">
     <title>Harmony Heights: Feel the Music</title>
 </head>
+  
+    <h1>Welcome to Harmony Heights</h1>
 <body>
     
-    <h1>Welcome to Harmony Heights</h1>
     <p>
         We are Harmony Heights, a band that blends genres to create unique sounds.
         Our journey through music has been incredible, and we're excited to share it with you.
@@ -38,7 +39,7 @@
             <a href="https://example.com/purchase-tickets-harmony-heights-orlando" target="_blank">Get Tickets</a></li>
         <li>
             Feb. 27, 2026 UCC. CVT –
-            <a href="https://example.com/purchase-tickets-harmony-heights-slc" target="_blank">Get Tickets</a</li>
+            <a href="https://example.com/purchase-tickets-harmony-heights-slc" target="_blank">Get Tickets </a</li>
     </ul>
     <h2>Follow Us</h2>
     <p>Stay updated with our latest news and releases:</p>
